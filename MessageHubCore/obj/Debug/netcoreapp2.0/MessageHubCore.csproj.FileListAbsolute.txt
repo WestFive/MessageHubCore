@@ -1,0 +1,11 @@
+D:\Code\MessageHubCore\MessageHubCore\bin\Debug\netcoreapp2.0\MessageHubCore.deps.json
+D:\Code\MessageHubCore\MessageHubCore\bin\Debug\netcoreapp2.0\MessageHubCore.runtimeconfig.json
+D:\Code\MessageHubCore\MessageHubCore\bin\Debug\netcoreapp2.0\MessageHubCore.runtimeconfig.dev.json
+D:\Code\MessageHubCore\MessageHubCore\bin\Debug\netcoreapp2.0\MessageHubCore.dll
+D:\Code\MessageHubCore\MessageHubCore\bin\Debug\netcoreapp2.0\MessageHubCore.pdb
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.csprojResolveAssemblyReference.cache
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.csproj.CoreCompileInputs.cache
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.AssemblyInfoInputs.cache
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.AssemblyInfo.cs
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.dll
+D:\Code\MessageHubCore\MessageHubCore\obj\Debug\netcoreapp2.0\MessageHubCore.pdb

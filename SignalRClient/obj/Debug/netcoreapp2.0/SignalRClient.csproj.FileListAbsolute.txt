@@ -1,0 +1,11 @@
+D:\Code\MessageHubCore\SignalRClient\bin\Debug\netcoreapp2.0\SignalRClient.deps.json
+D:\Code\MessageHubCore\SignalRClient\bin\Debug\netcoreapp2.0\SignalRClient.runtimeconfig.json
+D:\Code\MessageHubCore\SignalRClient\bin\Debug\netcoreapp2.0\SignalRClient.runtimeconfig.dev.json
+D:\Code\MessageHubCore\SignalRClient\bin\Debug\netcoreapp2.0\SignalRClient.dll
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.AssemblyInfoInputs.cache
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.AssemblyInfo.cs
+D:\Code\MessageHubCore\SignalRClient\bin\Debug\netcoreapp2.0\SignalRClient.pdb
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.csprojResolveAssemblyReference.cache
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.dll
+D:\Code\MessageHubCore\SignalRClient\obj\Debug\netcoreapp2.0\SignalRClient.pdb
